@@ -1,4 +1,6 @@
-# Café Noir
+# Cafe Noir
+
+Developed by [Ameya Modak](https://www.linkedin.com/in/ameya-modak/).
 
 Welcome to Café Noir, a virtual journey into the heart of our establishment. This website, built using ReactJS for the frontend and MongoDB for the backend, invites you to immerse yourself in the inviting atmosphere of our home page, learn about our journey in the 'About' section, and stay updated on coffee culture through our vibrant blog.
 
@@ -28,7 +30,9 @@ Welcome to Café Noir, a virtual journey into the heart of our establishment. Th
      ```
      nodemon app.js
      ```
+     
+## Feedback and Contributions
 
-Join us on a virtual journey, and when you're ready, step into Café Noir for a delightful experience that goes beyond a cup of coffee.
+Feedback and contributions are welcome! Feel free to open issues for any suggestions or bugs encountered. If you'd like to contribute, please fork the repository and submit a pull request. For direct communication, you can email me at [ameyamoddak26@gmail.com](mailto:ameyamoddak26@gmail.com).
 
  
