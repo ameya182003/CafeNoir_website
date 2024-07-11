@@ -35,7 +35,7 @@ Welcome to Café Noir, a virtual journey into the heart of our establishment. Th
 
 Home 
 
-![Screenshot 2024-07-11 115253](https://github.com/ameya182003/CafeNoir_website/assets/115361241/0d527db9-6c14-453f-b553-2337c39db057)
+![Screenshot 2024-07-11 114940](https://github.com/ameya182003/CafeNoir_website/assets/115361241/f3dc6287-def4-4943-94a3-17000cfbb636)
 
 About 
 
@@ -47,7 +47,7 @@ Blog (Registration)
 
 Blog (Login)
 
-![Screenshot 2024-07-11 114940](https://github.com/ameya182003/CafeNoir_website/assets/115361241/f3dc6287-def4-4943-94a3-17000cfbb636)
+![Screenshot 2024-07-11 115253](https://github.com/ameya182003/CafeNoir_website/assets/115361241/0d527db9-6c14-453f-b553-2337c39db057)
 
 Contact 
 
