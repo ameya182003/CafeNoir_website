@@ -31,6 +31,27 @@ Welcome to Café Noir, a virtual journey into the heart of our establishment. Th
      nodemon app.js
      ```
 
+# Website View 
+
+Home 
+
+![Screenshot 2024-07-11 115253](https://github.com/ameya182003/CafeNoir_website/assets/115361241/0d527db9-6c14-453f-b553-2337c39db057)
+
+About 
+
+![Screenshot 2024-07-11 115100](https://github.com/ameya182003/CafeNoir_website/assets/115361241/e571ef53-65a9-421a-9391-81c7153c460d)
+
+Blog (Registration) 
+
+![Screenshot 2024-07-11 115134](https://github.com/ameya182003/CafeNoir_website/assets/115361241/a76c79f5-d01c-4a2e-be72-ca50dc068e56)
+
+Blog (Login)
+
+![Screenshot 2024-07-11 114940](https://github.com/ameya182003/CafeNoir_website/assets/115361241/f3dc6287-def4-4943-94a3-17000cfbb636)
+
+Contact 
+
+![Screenshot 2024-07-11 115335](https://github.com/ameya182003/CafeNoir_website/assets/115361241/4c772b07-ce1f-459c-aea7-51e3fc3b5db2)
 
 ## Feedback and Contributions
 
